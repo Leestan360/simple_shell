@@ -1,5 +1,5 @@
-# File that list contributors to the simple shell project.
+# This file lists all individuals having contributed content to the repository.
+# For how it is generated, see `hack/generate-authors.sh`.
 
-Newton Ombese
-
-Joyce Wamocho
+Ian Collins <icthiongo@gmail.com>
+Stanley Mayore <stanleymayore2@gmail.com>
